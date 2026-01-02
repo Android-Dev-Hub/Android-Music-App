@@ -70,9 +70,5 @@ LinkedIn: https://www.linkedin.com/in/ishanwalia/
 
 If you like this project, don’t forget to ⭐ star the repository.
 ```
-
----
-
 If you want, tell me your **app name & screenshots folder name**, I can customize it 100% for your repo 😄
-
 ```
