@@ -62,7 +62,7 @@ Dark Mode
 
 Ishan Walia
 
-GitHub: https://github.com/ishanwalia7579
+GitHub: https://github.com/ishan-walia
 
 LinkedIn: https://www.linkedin.com/in/ishanwalia/
 
